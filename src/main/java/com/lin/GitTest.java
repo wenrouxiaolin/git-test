@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Hello Git4!");
         System.out.println("ssh-git push test!");
         System.out.println("pull test!");
+        System.out.println("github 项目更新");
     }
 }
